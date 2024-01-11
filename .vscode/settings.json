@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b0ed3a3a-f205-4a89-a0bb-ca5bfc55072e/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ClientServiceBloodDonorSystem",
+    "appService.deploySubpath": "."
+}
